@@ -10,3 +10,5 @@
 難しかった点・出来なかった点
 味の軸を設定することが難しく今回は断念。
 
+
+http://localhost/gs/sakebuzz_php02/sakebuzz_input.php
